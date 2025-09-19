@@ -1,4 +1,4 @@
-# OSS-Tool
+# OSS Tool
 # sentry-lite (Rust) — Open-Source Security Tool
 
 > **Owner:** `JatoriJenkinsSE`
