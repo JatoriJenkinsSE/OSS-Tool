@@ -2,7 +2,7 @@
 # sentry-lite (Rust) — Open-Source Security Tool
 
 > **Owner:** `JatoriJenkinsSE`
-> **Repo name:** `sentry-lite.md`
+> **Repo name:** `OSS Tool.md`
 
 A fast, portable Rust security CLI with three practical scanners you can run locally or in CI:
 
